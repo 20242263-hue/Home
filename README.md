@@ -1,1 +1,19 @@
-# Home
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratory Exam_Taglinao Paul Nathaniel P</title>
+</head>
+<body>
+    <center><table>
+        <img>
+        <h1>Taglinao Paul Nathaniel P</h1>
+        <h2>Course and Year</h2>
+        <br>
+        <a></a>
+    </table></center>
+
+    
+</body>
+</html>
