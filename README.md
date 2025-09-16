@@ -33,11 +33,11 @@ build a strong foundation creating <b>interactive and structured web pages.</b>I
 </ol>
 <p><footer>Contact me:<a href="20242263@s.ubaguio.edu">My UB Email</a>&nbsp;</footer>&nbsp;Phone: <639171129605>
     <br>
-    Connect with me:<a href="https://www.facebook.com/">FaceBook</a>&nbsp;
+    <center>>Connect with me:<a href="https://www.facebook.com/">FaceBook</a>&nbsp;
         <a href="https://github.com/">Github</a>&nbsp;
         <a href="https://x.com/">Twitter</a>
         <br>
-        &copy;2025<Taglinao Paul Nathaniel P.>, All rights reserved.
+        &copy;2025<Taglinao Paul Nathaniel P.>, All rights reserved.</center
 
 
     
