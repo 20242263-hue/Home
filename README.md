@@ -8,9 +8,9 @@
 <body>
     <Center><table><img src="Profile Picture.png" height=120px width=120px</Center>
      <h1>Taglinao Paul Nathaniel P</h1>
-     <h2>BSIT-2025</h2>
+     <h2>BSIT-2025-1st Year</h2>
         <br>
-        <a href="mailto:someone@example.com">Home</a>&nbsp;
+        <a href="https://20242263-hue.github.io/Home/">Home</a>&nbsp;
         <a href="mailto:someone@example.com">About</a>&nbsp;
         <a href="https://20242263-hue.github.io/Project/">Projects</a>
     </Center>
@@ -40,4 +40,5 @@ build a strong foundation creating <b>interactive and structured web pages.</b>I
         <a href="https://x.com/">Twitter</a>
         <br>
         &copy;2025<Taglinao Paul Nathaniel P.>, All rights reserved.</center
+
 
